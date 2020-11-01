@@ -124,7 +124,7 @@
     .arrow {
         font-size: 50px;
         color: rgba(71, 71, 71, 0.63);
-        position: absolute;
+        position: flex;
         bottom: 0;
         right: 50%;
         animation: pulsate-bck 0.5s cubic-bezier(0.600, -0.280, 0.735, 0.045) infinite both;
